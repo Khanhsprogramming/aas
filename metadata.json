@@ -1,0 +1,8 @@
+
+{
+  "name": "QR Attendance System",
+  "description": "A student attendance tracking system using QR codes. Scans student info (ID|Name|Class), determines lateness, prevents duplicate scans per day, and syncs with Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
